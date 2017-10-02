@@ -1,4 +1,4 @@
-package com.neeraj.java9.stream_api_improvements;
+package com.neeraj.java9.stream_api_improvements.takeWhile_dropWhile;
 
 import java.nio.file.Files;
 import java.nio.file.Paths;
